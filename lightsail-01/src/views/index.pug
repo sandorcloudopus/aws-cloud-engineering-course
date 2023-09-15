@@ -1,0 +1,21 @@
+head
+    meta(charset='utf-8')
+    title Gallery
+    link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css')
+
+body(
+    style="padding: 10px;"
+)
+    div(
+        style="margin-bottom: 20px;"
+    )
+        button(
+            onclick="location.href = '/upload';" 
+            id="myButton" 
+            class="btn btn-primary"
+            type="button"
+        ) Upload
+        
+    div.mt-3
+        for image in images
+            img(src=image class="img-thumbnail" width="200")
