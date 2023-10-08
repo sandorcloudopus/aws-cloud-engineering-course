@@ -1,4 +1,4 @@
-# AWS EC2 - Createa a Classic Bastion Host Setup
+# AWS EC2 - Create a Classic Bastion Host Setup
 - The following exercise would give the participant the skills to setup a Classic/Traditional Bastion Host Setup at the edge of our Network Perimeter (Though this method within AWS, specially with more robust setup is not recommended or used anymore)
 
 ## Requirements
