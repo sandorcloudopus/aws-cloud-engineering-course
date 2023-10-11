@@ -61,3 +61,4 @@ runcmd:
 [Cloud Init Reference](https://cloudinit.readthedocs.io/en/latest/reference/examples.html)
 [CloudFormation Cloud Init](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/deploying.applications.html)
 [Connecting to SFTP Server with Public Key (SSH)](https://superuser.com/questions/1566901/how-do-i-connect-to-sftp-with-provided-ssh-key)
+[vsftpd configuration (fedora)](https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/servers/File_and_Print_Servers/#s3-ftp-servers-vsftpd)
