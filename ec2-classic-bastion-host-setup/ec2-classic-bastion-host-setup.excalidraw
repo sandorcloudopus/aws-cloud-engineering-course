@@ -104,8 +104,8 @@
     },
     {
       "type": "text",
-      "version": 480,
-      "versionNonce": 781464277,
+      "version": 482,
+      "versionNonce": 656154661,
       "isDeleted": false,
       "id": "LsQNbQVXcfjBg3Bf4Lggr",
       "fillStyle": "hachure",
@@ -125,7 +125,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1696610284890,
+      "updated": 1697094992167,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -327,8 +327,8 @@
     },
     {
       "type": "text",
-      "version": 352,
-      "versionNonce": 1511837947,
+      "version": 354,
+      "versionNonce": 5316779,
       "isDeleted": false,
       "id": "7XNEyz9qHAwRBCWwMMv3b",
       "fillStyle": "hachure",
@@ -348,7 +348,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1696610284890,
+      "updated": 1697094992167,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -503,8 +503,8 @@
     },
     {
       "type": "text",
-      "version": 789,
-      "versionNonce": 1905294069,
+      "version": 791,
+      "versionNonce": 1095684997,
       "isDeleted": false,
       "id": "iJ4g6vjPGS35G4aZnXBYF",
       "fillStyle": "hachure",
@@ -524,7 +524,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1696610319042,
+      "updated": 1697094992168,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1002,7 +1002,7 @@
       "containerId": "o4zP1V5KaE9VXT7CNRC9y",
       "originalText": "Accessing the Bastion Host through the Internet - Restricting IP Address to my  own IP address",
       "lineHeight": 1.25,
-      "baseline": 167
+      "baseline": 168
     },
     {
       "type": "ellipse",
@@ -1072,12 +1072,12 @@
       "containerId": "V0A66JRzKb1UIu2mW7z-t",
       "originalText": "Accessing the Instances through the Bastion Host - Restrincting the SG to allow traffic only from the bastion host",
       "lineHeight": 1.25,
-      "baseline": 212
+      "baseline": 213
     },
     {
       "type": "text",
-      "version": 566,
-      "versionNonce": 1240398235,
+      "version": 568,
+      "versionNonce": 1583207243,
       "isDeleted": false,
       "id": "4dwwKbhWu-Fr2u7nkM54g",
       "fillStyle": "hachure",
@@ -1097,7 +1097,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1696610284890,
+      "updated": 1697094992168,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1112,8 +1112,8 @@
     },
     {
       "type": "text",
-      "version": 185,
-      "versionNonce": 1271611797,
+      "version": 187,
+      "versionNonce": 496245477,
       "isDeleted": false,
       "id": "ABru7MlkhJ65o-1JS1qIv",
       "fillStyle": "hachure",
@@ -1133,7 +1133,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1696610284890,
+      "updated": 1697094992168,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1148,8 +1148,8 @@
     },
     {
       "type": "text",
-      "version": 428,
-      "versionNonce": 1494595931,
+      "version": 430,
+      "versionNonce": 1232810475,
       "isDeleted": false,
       "id": "QpXTDF18gpxANBWF8Rlgy",
       "fillStyle": "hachure",
@@ -1169,7 +1169,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1696610310870,
+      "updated": 1697094992168,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1320,7 +1320,7 @@
       "containerId": "ZTKan40i2e0mQfn5OZDKQ",
       "originalText": "protected.pem",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 33
     },
     {
       "type": "rectangle",
@@ -1390,7 +1390,7 @@
       "containerId": "hxlHnMesW7BdP_JqC91oM",
       "originalText": "protected.pub",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 33
     },
     {
       "type": "rectangle",
@@ -1530,7 +1530,7 @@
       "containerId": "Ii7lJ0Tp39Vi0yv6Sa6SQ",
       "originalText": "protected.pub",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 33
     },
     {
       "type": "rectangle",
@@ -1600,7 +1600,7 @@
       "containerId": "fKcJdXvIRFRU7Yi73k6Sd",
       "originalText": "protected.pem",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 33
     }
   ],
   "appState": {
