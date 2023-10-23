@@ -10,7 +10,7 @@
 - Launch an Instance with the TEST User using the custom AMI
 
 ## Desired Architecture
-
+![ec2-custom-ami](./ec2-custom-ami-01.png)
 
 ## Resources
 - [Installing Node.js on Ubuntu from source](https://github.com/nodesource/distributions/blob/master/README.md#ubuntu-versions)
