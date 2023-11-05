@@ -33,3 +33,9 @@ mkfs -t ext4 /dev/xvdf
 # Mount the Filesystem
 mount /dev/xvdf /<some-directory>
 ```
+
+## Resources
+1. [EBS and Encryption](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html#encryption-by-default)
+1. [lsblk manuals](https://man7.org/linux/man-pages/man8/lsblk.8.html)
+1. [mount manuals](https://linux.die.net/man/8/mount)
+1. [mkfs manuals](https://linux.die.net/man/8/mkfs)
