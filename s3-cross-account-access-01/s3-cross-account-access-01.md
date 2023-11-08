@@ -1,4 +1,4 @@
-# AWS EC2 - S3 Cross Account Access
+# AWS S3 - Cross Account Access
 The purpose of this excercise is to demonstrate how to access S3 Objects from a different AWS Account - called "Cross Account S3 Access"
 
 ## Requirements
