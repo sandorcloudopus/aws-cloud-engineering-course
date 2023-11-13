@@ -12,7 +12,7 @@ In the following lecture I would like to demonstrate how to encrypt an unencrypt
 1. Clean Up the Resources
 
 ## Desired Architecture
-
+![Encrypt 'unencrypted' database](./rds-encrypting-unencrypted-databases-01.png)
 
 ## Tips and Tricks
 #### Connecting to PostgreSQL Database
