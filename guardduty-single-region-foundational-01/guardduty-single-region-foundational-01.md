@@ -18,6 +18,10 @@
 ## Quick Overview
 ![AWS GuardDuty - Single Region / Foundational Data Sources](./guardduty-single-region-foundational-01.png)
 
+## Tips and Tricks
+#### Triggering Policy:IAMUser/RootCredentialUsage Finding
+1. Log in to the AWS Account with the Root User Credentials
+
 ## Resources
 1. [AWS GuardDuty Foundational Data Sources](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_data-sources.html#guardduty_dns)
 1. [Finding Types](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html)
