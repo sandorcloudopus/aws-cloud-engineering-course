@@ -1,13 +1,13 @@
 # AWS WAF - IP Whitelisting
 - AWS WAF is a web application firewall that lets you monitor the HTTP and HTTPS requests that are forwarded to your protected web application resources.
 - The purpose of this exercise to know the foundational basics, and create a Whitelist Rule for custom IP Address to block all requests originationg from a different IP Address.
-- In order to complet the exercise we need to work with IP Sets and Web ACL Rules.
+- In order to complete the exercise we need to work with IP Sets and Web ACL Rules.
 
 ## Exercise
 1. Setup Basics (example below)
   1. AWS REST API Gateway - with Mock Method on the Resource
   1. Test the API
-1. Create a WAF - to Whitlist your IP Address
+1. Create a WAF - to Whitlist your IP Addresså
   1. Create a WAF - IP Set
   1. Create a Custom Rule Group/Rules
   1. Associate the Web ACL with the AWS RST API Gateway
