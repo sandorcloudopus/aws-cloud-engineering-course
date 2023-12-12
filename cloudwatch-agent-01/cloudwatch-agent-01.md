@@ -17,7 +17,7 @@
 1. Check the AWS Console for Metrics and Logs
 
 ## Quick Overview
-![AWS CloudWatch - Pulbish Metrics and Logs using CloudWatch Agent](./)
+![AWS CloudWatch - Pulbish Metrics and Logs using CloudWatch Agent](./cloudwatch-agent-01.png)
 
 ## Tips and Tricks
 #### Installing CloudWatch Agent on AML2
