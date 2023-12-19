@@ -18,3 +18,4 @@
 1. [AWS S3 - Lifecycle Policy - Delete Objects Automatically After 90 Days](./exercise/aws-storage/s3-delete-versioned-objects-01/s3-delete-versioned-objects-01.md)
 1. [AWS EFS - Mount EFS from a Different VPC (same Region)](./exercise/aws-storage/efs-mount-from-different-vpc-01/efs-mount-from-different-vpc-01.md)
 1. [AWS EFS - Secure AWS EFS Filesystems](./exercise/aws-storage/efs-security-in-depth-01/efs-security-in-depth-01.md)
+1. [AWS EC2 EBS - Encrypt unencrypted Volumes of EC2 Instance](./exercise/aws-storage/ebs-encrypt-volumes-01/ebs-encrypt-volumes-01.md)
