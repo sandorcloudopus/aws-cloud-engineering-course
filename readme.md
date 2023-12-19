@@ -13,3 +13,4 @@
 
 ### AWS Storage Services
 1. [AWS S3 - (pseudo) mount S3 to EC2](./exercise/aws-storage/s3-mount-point-01/s3-mount-point-01.md)
+1. [AWS S3 - S3 Delete Objects from versioned enabled Bucket](./exercise/aws-storage/s3-delete-versioned-objects-01/s3-delete-versioned-objects-01.md)
