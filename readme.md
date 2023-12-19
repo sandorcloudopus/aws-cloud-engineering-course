@@ -20,3 +20,4 @@
 1. [AWS EFS - Secure AWS EFS Filesystems](./exercise/aws-storage/efs-security-in-depth-01/efs-security-in-depth-01.md)
 1. [AWS EC2 EBS - Encrypt unencrypted Volumes of EC2 Instance](./exercise/aws-storage/ebs-encrypt-volumes-01/ebs-encrypt-volumes-01.md)
 1. [AWS EC2 EBS - Enforce EBS Volume Encryption on EC2 Instance Creation and on Volume Creation](./exercise/aws-storage/ebs-enforce-encryption-01/ebs-enforce-encryption-01.md)
+1. [AWS EC2 EBS - Enable Default Encryption in the Region](./exercise/aws-storage/ebs-enable-default-encryption-01/ebs-enable-default-encryption-01.md)
