@@ -1,4 +1,4 @@
-# AWS RDS - Encrypt unencrypted RDS Instance
+# AWS RDS - Encrypt unencrypted RDS Instance (PostgreSQL)
 - Amazon RDS can encrypt your Amazon RDS DB instances. Data that is encrypted at rest includes the underlying storage for DB instances, its automated backups, read replicas, and snapshots. Amazon RDS encrypted DB instances use the industry standard AES-256 encryption algorithm to encrypt your data on the server that hosts your Amazon RDS DB instances.
 - It might be the case that you have provisioned your database without encryption enabled, there are multiple ways to encrypt an unencrypted database, In this exercise we are going to go with the safe way which involves application or client downtime.
 
