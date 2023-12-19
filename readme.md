@@ -26,3 +26,4 @@
 ### AWS Databases
 1. [AWS RDS - Use Encryption in Transit (PostgreSQL)](./exercise/aws-databases/rds-postgres-encryption-in-transit/rds-postgres-encryption-in-transit.md)
 1. [AWS RDS - Use IAM Authentication (PostgreSQL)](./exercise/aws-databases/rds-postgres-iam-authentication-01/rds-postgres-iam-authentication-01.md)
+1. [AWS RDS - Modifying Instance Type (with near to Zero Downtime)(PostgreSQL)](./exercise/aws-databases/rds-modify-instance-type-and-storage-size-01/rds-modify-instance-type-and-storage-size-01.md)
