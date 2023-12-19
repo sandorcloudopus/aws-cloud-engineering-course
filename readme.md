@@ -34,5 +34,6 @@
 ### AWS Backup Services
 1. [AWS Backup - RDS Cross Region Backup with PITR](./exercise/aws-backups/backup-rds-cross-region-backup-01/backup-rds-cross-region-backup-01.md)
 1. [AWS Backup - Create a crash-consistent backup from AWS EC2 with multiple Volumes attached](./exercise/aws-backups/backup-ec2-multi-volume-crash-consistent-backups/backup-ec2-multi-volume-crash-consistent-backups.md)
-1. [AWS Backup - backup S3 objects cross region with replication](./exercise/aws-backups/backup-s3-cross-region-replication-01/backup-s3-cross-region-replication-01.md)
+1. [AWS Backup - Backup S3 objects cross region with replication](./exercise/aws-backups/backup-s3-cross-region-replication-01/backup-s3-cross-region-replication-01.md)
 1. [AWS Backup - Backup EFS Cross Region using Replication](./exercise/aws-backups/backup-efs-cross-region-replication-01/backup-efs-cross-region-replication-01.md)
+1. [AWS Backup - Backup EC2 Cross Region with AWS Backup](./exercise/aws-backups/backup-ec2-cross-region-copy-01/backup-ec2-cross-region-copy.md)
