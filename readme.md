@@ -22,3 +22,6 @@
 1. [AWS EC2 EBS - Enforce EBS Volume Encryption on EC2 Instance Creation and on Volume Creation](./exercise/aws-storage/ebs-enforce-encryption-01/ebs-enforce-encryption-01.md)
 1. [AWS EC2 EBS - Enable Default Encryption in the Region](./exercise/aws-storage/ebs-enable-default-encryption-01/ebs-enable-default-encryption-01.md)
 1. [AWS EC2 EBS - Increase the storage size of an EBS Volume (root volume)](./exercise/aws-storage/ebs-increase-volume-size-01/ebs-increase-volume-size-01.md)
+
+### AWS Databases
+1. [AWS RDS - Use Encryption in Transit (PostgreSQL)](./exercise/aws-databases/rds-postgres-encryption-in-transit/rds-postgres-encryption-in-transit.md)
