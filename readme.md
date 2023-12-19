@@ -29,3 +29,4 @@
 1. [AWS RDS - Modifying Instance Type (with near to Zero Downtime)(PostgreSQL)](./exercise/aws-databases/rds-modify-instance-type-and-storage-size-01/rds-modify-instance-type-and-storage-size-01.md)
 1. [AWS RDS - Encrypt unencrypted RDS Instance (PostgreSQL)](./exercise/aws-databases/rds-encrypt-unencrypted-database-instance-01/rds-encrypt-unencrypted-database-instance-01.md)
 1. [AWS RDS - Working with Parameter Groups (PostgreSQL)](./exercise/aws-databases/rds-working-with-parameter-groups-01/rds-working-with-parameter-groups-01.md)
+1. [AWS RDS - PostgreSQL - Logging and Audit with pgaudit extension and CloudWatch](./exercise/aws-databases/rds-postgres-logs-pgaudit-01/rds-postgres-logs-pgaudit-01.md)
