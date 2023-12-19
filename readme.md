@@ -30,3 +30,6 @@
 1. [AWS RDS - Encrypt unencrypted RDS Instance (PostgreSQL)](./exercise/aws-databases/rds-encrypt-unencrypted-database-instance-01/rds-encrypt-unencrypted-database-instance-01.md)
 1. [AWS RDS - Working with Parameter Groups (PostgreSQL)](./exercise/aws-databases/rds-working-with-parameter-groups-01/rds-working-with-parameter-groups-01.md)
 1. [AWS RDS - PostgreSQL - Logging and Audit with pgaudit extension and CloudWatch](./exercise/aws-databases/rds-postgres-logs-pgaudit-01/rds-postgres-logs-pgaudit-01.md)
+
+### AWS Backup Services
+1. [AWS Backup - RDS Cross Region Backup with PITR](./exercise/aws-backups/backup-rds-cross-region-backup-01/backup-rds-cross-region-backup-01.md)
