@@ -1,5 +1,5 @@
 # AWS EFS - Mount EFS from a Different VPC (same Region)
-The purpose of this excercise is to demonstrate how to mount EFS File Systen to an EC2 Instance, from a different VPC. 
+The purpose of this excercise is to demonstrate how to mount EFS File System to an EC2 Instance, from a different VPC. 
 
 ## Requirements
 - Create 2 different VPC
