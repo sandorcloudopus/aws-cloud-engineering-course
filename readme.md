@@ -37,3 +37,4 @@
 1. [AWS Backup - Backup S3 objects cross region with replication](./exercise/aws-backups/backup-s3-cross-region-replication-01/backup-s3-cross-region-replication-01.md)
 1. [AWS Backup - Backup EFS Cross Region using Replication](./exercise/aws-backups/backup-efs-cross-region-replication-01/backup-efs-cross-region-replication-01.md)
 1. [AWS Backup - Backup EC2 Cross Region with AWS Backup](./exercise/aws-backups/backup-ec2-cross-region-copy-01/backup-ec2-cross-region-copy.md)
+1. [AWS Backup - Schedule backups and use Backup Plans](./exercise/aws-backups/backup-scheduled-backups-backup-plans-01/backup-scheduled-backups-backup-plans.md)
