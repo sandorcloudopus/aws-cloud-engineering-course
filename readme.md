@@ -41,3 +41,4 @@
 
 ### AWS Container Services
 1. [AWS ECR - Create a Private Repository](./exercise/aws-containers/ecr-create-private-repository-01/ecr-create-private-repository-01.md)
+1. [AWS ECR - Apply Image Scanning and Enable Scan on Push](./exercise/aws-containers/ecr-image-scanning-scan-on-push-01/ecr-image-scanning-scan-on-push-01.md)
