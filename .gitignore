@@ -1,5 +1,6 @@
 # because of MAC
 .DS_Store
 
-# for local development
-skeleton.md
+.vscode
+
+raw/
