@@ -1,4 +1,4 @@
-# AWS VPC - Enable VPC Flow Logs and Publis to CloudWatch
+# AWS VPC - Enable VPC Flow Logs and Publish to CloudWatch
 - VPC Flow Logs is a feature that enables you to capture information about the IP traffic going to and from network interfaces in your VPC. Flow log data can be published to the following locations: Amazon CloudWatch Logs, Amazon S3, or Amazon Kinesis Data Firehose.
 - The purpose of this exercise is to demonstrate how to stream VPC Flow logs to AWS CloudWatch. Storing Logs in AWS CloudWatch also gives you the option to run advanced queries.
 
