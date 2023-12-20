@@ -52,3 +52,4 @@
 ### AWS Security Services
 1. [AWS WAF - Set up IP Whitelisting with WAF](./exercise/aws-security/waf-ip-whitelisting-01/waf-ip-whitelisting-01.md)
 1. [AWS IAM - Preventing Privilige Escalation with Permission Boundaries](./exercise/aws-security/iam-permission-boundaries-01/iam-permission-boundaries-01.md)
+1. [AWS Inspector - Scanning EC2 Images for vulnerability detection](./exercise/aws-security/inspector-scanning-ec2-01/inspector-scanning-ec2-01.md)
