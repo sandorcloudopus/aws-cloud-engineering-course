@@ -48,3 +48,6 @@
 1. [AWS ECS - Create a Cluster with the ECS Console Wizard](./exercise/aws-containers/ecs-cluster-autoscaling-capacity-provider-with-wizard-01/ecs-cluster-autoscaling-capacity-provider-with-wizard-01.md)
 1. [AWS ECS - Create a Cluster from scratch with EC2 Autoscaling Capacity Provider](./exercise/aws-containers/ecs-cluster-autoscaling-capacity-provider-from-scratch-01/ecs-cluster-autoscaling-capacity-provider-from-scratch-01.md)
 1. [AWS ECS - Create a Fargate Workload](./exercise//aws-containers/ecs-fargate-workload-01/ecs-fargate-workload-01.md)
+
+### AWS Security Services
+1. [AWS WAF - Set up IP Whitelisting with WAF](./exercise/aws-security/waf-ip-whitelisting-01/waf-ip-whitelisting-01.md)
