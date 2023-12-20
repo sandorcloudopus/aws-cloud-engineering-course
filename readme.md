@@ -51,3 +51,4 @@
 
 ### AWS Security Services
 1. [AWS WAF - Set up IP Whitelisting with WAF](./exercise/aws-security/waf-ip-whitelisting-01/waf-ip-whitelisting-01.md)
+1. [AWS IAM - Preventing Privilige Escalation with Permission Boundaries](./exercise/aws-security/iam-permission-boundaries-01/iam-permission-boundaries-01.md)
