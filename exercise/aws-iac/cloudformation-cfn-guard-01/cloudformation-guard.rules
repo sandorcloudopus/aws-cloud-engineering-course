@@ -1,0 +1,34 @@
+let s3_buckets = Resources.*[
+	Type == "AWS::S3::Bucket"
+]
+
+rule enable_s3_bucket_versioning when %s3_buckets !empty {
+	%s3_buckets {
+		Properties {
+			VersioningConfiguration exists
+			when VersioningConfiguration exists {
+				VersioningConfiguration {
+					Status exists
+					when Status exists {
+						Status == "Enabled"
+					}
+				}
+			}
+		}
+	}
+}
+
+rule s3_bucket_encryption when %s3_buckets !empty {
+	%s3_buckets {
+		Properties {
+			BucketEncryption exists
+			when BucketEncryption exists {
+				BucketEncryption {
+					some ServerSideEncryptionConfiguration.* {
+						ServerSideEncryptionByDefault exists
+					}
+				}
+			}
+		}
+	}
+}
