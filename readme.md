@@ -67,3 +67,4 @@
 1. [AWS CloudWatch - Pulbish Metrics and Logs using CloudWatch Agent](./exercise/aws-observability/cloudwatch-agent-01/cloudwatch-agent-01.md)
 1. [AWS CloudWatch - Send Alarms to Slack Channel](./exercise/aws-observability/cloudwatch-alarms-to-slack-01/cloudwatch-alarms-to-slack-01.md)
 1. [AWS CloudWatch - Create a Composite Alarm](./exercise/aws-observability/cloudwatch-composite-alarms-01/cloudwatch-composite-alarms-01.md)
+1. [AWS CloudWatch - Enable and Use Container Insights](./exercise/aws-observability/cloudwatch-container-insights-01/cloudwatch-container-insights-01.md)
