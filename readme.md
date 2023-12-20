@@ -28,6 +28,7 @@
 1. [AWS VPC - Transit Gateway - Establish centralized outbound routing to the Internet](./exercise/aws-networking/transit-gateway-outbound-01/transit-gateway-outbound-01.md)
 1. [AWS Client VPN - Setting Up Client VPN with Mutual Authentication](./exercise/aws-networking/client-vpn-01/client-vpn-01.md)
 1. [AWS VPC - Peer VPC Inner and Cross Region](./exercise/aws-networking/vpc-peering-01/vpc-peering-01.md)
+1. [AWS VPC - Enable VPC Flow Logs and Publis to CloudWatch](./exercise/aws-networking/vpc-flow-log-01/vpc-flow-log-01.md)
 
 ### AWS Databases
 1. [AWS RDS - Use Encryption in Transit (PostgreSQL)](./exercise/aws-databases/rds-postgres-encryption-in-transit/rds-postgres-encryption-in-transit.md)
