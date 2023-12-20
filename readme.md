@@ -72,3 +72,4 @@
 
 ### AWS IaC Services
 1. [AWS CloudFormation - Use SAM CLI](./exercise/aws-iac/cloudformation-samcli-01/cloudformation-samcli-01.md)
+1. [AWS CloudFormation - Create Nested Stacks](./exercise/aws-iac/cloudformation-nested-stacks-01/cloudformation-nested-stacks-01.md)
