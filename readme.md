@@ -25,6 +25,7 @@
 
 ### AWS Networking
 1. [AWS VPC - Create a Fully Featured VPC (step-by-step)](./exercise/aws-networking/vpc-step-by-step-01/vpc-step-by-step.md)
+1. [AWS VPC - Transit Gateway - Establish centralized outbound routing to the Internet](./exercise/aws-networking/transit-gateway-outbound-01/transit-gateway-outbound-01.md)
 
 ### AWS Databases
 1. [AWS RDS - Use Encryption in Transit (PostgreSQL)](./exercise/aws-databases/rds-postgres-encryption-in-transit/rds-postgres-encryption-in-transit.md)
