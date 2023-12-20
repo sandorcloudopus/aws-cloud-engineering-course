@@ -1,4 +1,4 @@
-# AWS GuardDuty - Single Region / Foundational Data Sources
+# AWS GuardDuty - Single Region and Foundational Data Sources
 - The Purpose of this exercise is to discover the capabilities of AWS GuardDuty. Enabling the Foundational Data Sources and generating security findings gives you a great overview of this fantastic security service.
 - Amazon GuardDuty is a security monitoring service that analyzes and processes different data sources, it is an Intelligent Threat Detection Service.
 

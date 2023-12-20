@@ -55,3 +55,4 @@
 1. [AWS Inspector - Scanning EC2 Images for vulnerability detection](./exercise/aws-security/inspector-scanning-ec2-01/inspector-scanning-ec2-01.md)
 1. [AWS VPC Subnet Network Access Control List - For Web Application Serving EC2 Instance](./exercise/aws-security/nacl-for-webapplication-01/nacl-for-webapplication-01.md)
 1. [AWS GuardDuty - Single Region and Foundational Data Sources](./exercise/aws-security/guardduty-single-region-foundational-01/guardduty-single-region-foundational-01.md)
+1. [AWS GuardDuty - Enable Multi Region Findings (AWS  Security Hub)](./exercise/aws-security/guardduty-multi-region-findings-01/guardduty-multi-region-findings-01.md)
