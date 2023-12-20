@@ -39,6 +39,7 @@
 
 
 #### Example Nginx Config for quick webserver (testing purposes)
+```
 events {
     worker_connections  1024;
 }
@@ -66,6 +67,6 @@ http {
         }
     }
 }
-
+```
 ## Resources
 1. [Control traffic to subnets using network ACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html)
