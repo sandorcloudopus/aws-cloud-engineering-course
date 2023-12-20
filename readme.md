@@ -61,3 +61,6 @@
 ### AWS Audit and Compliance Services
 1. [AWS CloudTrail - Create Multi Region Trail and Single Region Trail](./exercise/aws-audit/cloudtrail-single-and-multi-region-trails-01/cloudtrail-single-and-multi-region-trails-01.md)
 1. [AWS Config - Deploy and Use Conformance Packs](./exercise/aws-audit/config-use-conformance-packs-01/config-use-conformance-packs-01.md)
+
+### AWS Observability
+1. [AWS Budgets - Monitor Cloud Spendings](./exercise/aws-observability/budgets-monitoring-spending-01/budgets-monitoring-spending-01.md)
