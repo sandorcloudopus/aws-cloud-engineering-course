@@ -45,3 +45,4 @@
 1. [AWS ECR - Set up Pull Through Cache](./exercise/aws-containers/ecr-pull-through-cache-01/ecr-pull-through-cache-01.md)
 1. [AWS ECS - Set up Private Registry Authentication for Tasks](./exercise/aws-containers/ecs-private-registry-authentication-01/ecs-private-registry-authentication-01.md)
 1. [AWS ECS - EC2 Cluster Enable Elastic Network Interface Trunking](./exercise/aws-containers/ecs-enable-trunking-01/ecs-enable-trunking-01.md)
+1. [AWS ECS - Create a Cluster with the ECS Console Wizard](./exercise/aws-containers/ecs-cluster-autoscaling-capacity-provider-with-wizard-01/ecs-cluster-autoscaling-capacity-provider-with-wizard-01.md)
