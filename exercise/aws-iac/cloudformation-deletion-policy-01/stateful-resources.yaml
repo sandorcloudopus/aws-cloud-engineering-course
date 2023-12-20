@@ -1,0 +1,26 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+
+Resources:
+  S3:
+    Type: AWS::S3::Bucket
+    DeletionPolicy: RetainExceptOnCreate
+    Properties:
+      BucketName: "this-for-sure-does-not-exist-99aa"
+      VersioningConfiguration:
+        Status: Enabled
+
+  S32:
+    Type: AWS::S3::Bucket
+    DeletionPolicy: Retain
+    Properties:
+      BucketName: "this-for-sure-does-not-exist-999df"
+      VersioningConfiguration:
+        Status: Enabled
+
+  S33:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: "abc"
+      VersioningConfiguration:
+        Status: Enabled

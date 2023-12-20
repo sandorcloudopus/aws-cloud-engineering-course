@@ -74,3 +74,4 @@
 1. [AWS CloudFormation - Use SAM CLI](./exercise/aws-iac/cloudformation-samcli-01/cloudformation-samcli-01.md)
 1. [AWS CloudFormation - Create Nested Stacks](./exercise/aws-iac/cloudformation-nested-stacks-01/cloudformation-nested-stacks-01.md)
 1. [AWS CloudFormation Guard - Use cfn-guard CLI](./exercise/aws-iac/cloudformation-cfn-guard-01/cloudformation-cfn-guard-01.md)
+1. [AWS CloudFormation - Take Advantage of Deletion Policy attribute](./exercise/aws-iac/cloudformation-deletion-policy-01/cloudformation-deletion-policy-01.md)
