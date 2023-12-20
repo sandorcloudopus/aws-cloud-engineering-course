@@ -83,3 +83,6 @@
 1. [AWS CloudFormation Guard - Use cfn-guard CLI](./exercise/aws-iac/cloudformation-cfn-guard-01/cloudformation-cfn-guard-01.md)
 1. [AWS CloudFormation - Take Advantage of Deletion Policy attribute](./exercise/aws-iac/cloudformation-deletion-policy-01/cloudformation-deletion-policy-01.md)
 1. [AWS CloudFormation - Deploy with Git Sync](./exercise/aws-iac/cloudformation-git-sync-01/cloudformation-git-sync.md)
+
+### AWS Lightsail
+1. [AWS Lightsail - Deploy a Web-Application to AWS Lightsail Platform](./exercise/aws-lightsail/aws-lightsail-01/aws-lightsail-01.md)

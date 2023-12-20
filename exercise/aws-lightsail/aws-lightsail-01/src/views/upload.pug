@@ -1,0 +1,17 @@
+head
+  meta(charset='utf-8')
+  title Upload an Image
+  link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css')
+
+body
+  .modal-dialog
+      .modal-content
+        .modal-header
+          h4#myModalLabel.modal-title
+            | Upload an Image
+        .modal-body
+          form(role='form' method='POST' action='/upload', enctype="multipart/form-data")
+            div.form-group
+              label(for='file') Image:
+              input#imageupload.form-control(type='file', name='file')
+            button.btn.btn-primary(type="submit", name="submit") Submit
