@@ -23,6 +23,9 @@
 1. [AWS EC2 EBS - Enable Default Encryption in the Region](./exercise/aws-storage/ebs-enable-default-encryption-01/ebs-enable-default-encryption-01.md)
 1. [AWS EC2 EBS - Increase the storage size of an EBS Volume (root volume)](./exercise/aws-storage/ebs-increase-volume-size-01/ebs-increase-volume-size-01.md)
 
+### AWS Networking
+1. [AWS VPC - Create a Fully Featured VPC (step-by-step)](./exercise/aws-networking/vpc-step-by-step-01/vpc-step-by-step.md)
+
 ### AWS Databases
 1. [AWS RDS - Use Encryption in Transit (PostgreSQL)](./exercise/aws-databases/rds-postgres-encryption-in-transit/rds-postgres-encryption-in-transit.md)
 1. [AWS RDS - Use IAM Authentication (PostgreSQL)](./exercise/aws-databases/rds-postgres-iam-authentication-01/rds-postgres-iam-authentication-01.md)
