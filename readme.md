@@ -57,3 +57,6 @@
 1. [AWS GuardDuty - Single Region and Foundational Data Sources](./exercise/aws-security/guardduty-single-region-foundational-01/guardduty-single-region-foundational-01.md)
 1. [AWS GuardDuty - Enable Multi Region Findings (AWS  Security Hub)](./exercise/aws-security/guardduty-multi-region-findings-01/guardduty-multi-region-findings-01.md)
 1. [AWS GuardDuty - Enable ECS Fargate Runtime Monitoring](./exercise/aws-security/guardduty-ecs-runtime-monitoring-01/guardduty-ecs-runtime-monitoring-01.md)
+
+### AWS Audit and Compliance Services
+1. [AWS CloudTrail - Create Multi Region Trail and Single Region Trail](./exercise/aws-audit/cloudtrail-single-and-multi-region-trails-01/cloudtrail-single-and-multi-region-trails-01.md)
