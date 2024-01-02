@@ -1,0 +1,12 @@
+[Unit]
+Description=Hello World web application
+After=network.target
+
+[Service]
+User=ec2-user
+WorkingDirectory=/home/ec2-user
+ExecStart=/home/ec2-user/.venv/bin/gunicorn -w 4 'hello:app'
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

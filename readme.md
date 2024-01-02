@@ -86,3 +86,6 @@
 
 ### AWS Lightsail
 1. [AWS Lightsail - Deploy a Web-Application to AWS Lightsail Platform](./exercise/aws-lightsail/aws-lightsail-01/aws-lightsail-01.md)
+
+### AWS Hosting
+1. [AWS EC2 - Host Python/Flask Application as a Service - __FOR YOUTUBE__](./exercise/aws-hosting/flask-on-ec2-01/flask-on-ec2-01.md)
