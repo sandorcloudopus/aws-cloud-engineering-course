@@ -20,6 +20,9 @@
 ## Desired Architecture
 ![AWS Hosting - Host a Python/Flask WebApplication on EC2 Instance](./flask-on-ec2-01.png)
 
+## Solution
+[YouTube](https://youtu.be/VFTeLN0J9Lw)
+
 ## Tips and Tricks
 #### Creating the Virtual Environment
 `python3 -m venv .venv`
@@ -47,3 +50,7 @@
 #### Generate Let's Encrypt Cert
 - Make sure your Domain Registrar has the A record for your Webserver
 `sudo certbot certonly --nginx -d <your-domain>`
+
+## Resources
+1. [Flask with NGINX](https://flask.palletsprojects.com/en/3.0.x/deploying/nginx/)
+1. [NGINX with Let's Encrypt](https://www.nginx.com/blog/using-free-ssltls-certificates-from-lets-encrypt-with-nginx/)
