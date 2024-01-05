@@ -14,3 +14,12 @@
     1. Configure Build
     1. Configure Service
 1. Change the Code and Push to the Source Repository
+
+## Overview
+![Overview](./flask-on-apprunner-01.png)
+
+## Resources
+1. [Deploying AppRunner on Source Code based Mode](https://docs.aws.amazon.com/apprunner/latest/dg/service-source-code.html)
+
+## Solution
+[YouTube Video](https://www.youtube.com/watch?v=t2d3CGkPXQI)
