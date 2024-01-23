@@ -1,3 +1,6 @@
+## Visit the Course
+[Udemy Link](https://www.udemy.com/course/aws-cloud-engineering-in-practice/?couponCode=82F1AF24C6EBF42C479D)
+
 ## Exercise Directory
 
 ### AWS Compute Services
@@ -90,3 +93,4 @@
 ### AWS Hosting
 1. [AWS EC2 - Host Python/Flask Application as a Service - __SOLUTION ON YOUTUBE__](./exercise/aws-hosting/flask-on-ec2-01/flask-on-ec2-01.md)
 1. [AWS AppRunner - Host Python/Flask Application as a Service based on source code in GitHub- __SOLUTION ON YOUTUBE__](./exercise/aws-hosting/flask-on-apprunner-01.md/flask-on-apprunner-01.md)
+
